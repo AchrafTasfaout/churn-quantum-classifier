@@ -1,1 +1,2 @@
-# churn-quantum-classifier
+# Quantum Churn Predictor
+In this project, we explored Quantum Computing and Quantum Machine Learning using the Qiskit library to create a Quantum Classifier for predicting churn in a Telecom company. Leveraging Qiskit's features, we implemented a feature map, ansatz, and employed the Variational Quantum Classifier (VQC). The Quantum Classifier demonstrated high accuracy in comparison to a classical Multi-layer Perceptron (MLP) Classifier, showcasing its potential for quantum machine learning applications. The project involved pre-processing steps like feature selection, normalization, and amplitude encoding, providing insights into the data and evaluating the performance of the Quantum Classifier on both training and test sets.
